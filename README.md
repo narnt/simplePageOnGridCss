@@ -1,0 +1,2 @@
+# simplePageOnGridCss
+Простой шаблон
